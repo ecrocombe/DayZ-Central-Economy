@@ -1,3 +1,132 @@
+# Introduction 
+This repository stores the multiple DayZ PS4 configs used on the community server "(ANZ) | PVE Weekdays | PVP Weekends | Daily Events | see more @ https://discord.gg/3Z8zFcN".
+
+Just before midnight (23:30 AEST/AEDT) every day (Configs are only applied when server restarts next), these configs are rotated each day for specific events.
+
+Monday's = Modded
+
+Tuesday's = Vanilla
+
+Wednesday's = Wildlife
+
+Thursday's = Baseline
+
+Friday's = FrightDay
+
+Saturday's = Assault
+
+Sunday = Funday
+
+Branch | Base | Description 
+--- | --- | ---
+Default |  | Unmodified config, not used directly but to abstract other configs
+All | Default | A baseline config that applies to all configs
+Base | All | A baseline config that applies to all config's, excluding Vanilla.
+Vanilla | All | Used for 'Tight Ass Tuesdays', a PvE only day with config similar to official servers.
+Wildlife | Base | Used for 'Wildlife Wednesdays' is a PvE only day with boosted bears and wolves
+Thirsty | Base | Used for 'Thirsty Thursdays', a PvE only day with no water in waterbottles, drastically less life (Zombies,Fruit,Veg,Animals)
+FrightDay | Base | Used for 'FrightDay Friday', a PvE only day using the same reduced life as Thirsty, water back in waterbottles, and Hordes of zombies.
+Assuault | Base | Used for 'Assault Saturdays', a PvP day only in red zones.
+Funday | Base | Used for 'Funday Sunday', a PvP day with no rules, encouraging base raiding.
+Modded | Base | Used for 'Modded Monday', a PvP day with boosted loot
+
+# XML Files
+File | Folder | Description 
+--- | --- | ---
+events.xml | files/db/ | Events that spawn vehicles, wrecks, helis, animals, etc
+globals.xml | files/db/ | Settings like login timer, max zombies etc.
+types.xml | files/db/ | The loot table
+cfgspawnabletypes.xml | files/ | Attachments and cargo of items from the loot table.
+cfgeventspawns.xml | files/ | Locations where events spawn
+mapgroupproto.xml | files/ | Whatever object your event spawns, this file is referenced for the relative loot spawn locations and types of loot
+
+
+## events.xml
+Value | Description
+--- | ---
+name | Valid event name prefixes include: Vehicle, Static, Loot, Infected, Animal, Ambient, Item and Trajectory.
+waves | Unknown
+nominal | The maximum amount of zones of this type on the map at once.
+min | The minimum amount of zones that will spawn on the map. 
+max | The maximum amount of zones that will spawn on the map.
+lifetime | After spawned, this is the amount of time they last until despawn IF they are outside 'cleanupradius'
+restock | The amount of time that will need to pass before this zone is allowed to spawn again. 
+saferadius | Minimum distance from players position that they can spawn.
+distanceradius | Minimum distance away from other similar zone of this type.
+cleanupradius | If zone is this distance away from player position, they will despawn after lifetime ticks down
+flags | All attributes of this flag are unknown.
+position | Determines whether distance is counted from player position or from a fixed position
+limit | Unknown
+active | Enables (1) or Disables (0) this event.
+children | Array of the different possible spawns within each event
+
+## types.xml
+Value | Description 
+--- | ---
+nominal | how many items should be aproximately in map
+lifetime | lifetime in (seconds) - what is the idle before item abandoned at ground gets deleted
+restock | restock is oposite of lifetime - idle before item is allowed to respawn when required
+min | minimal count should be available in map
+quantmin | Dictates the minimum quantity of consumable within the item. Value=(-1.0%(empty) - 100.0%(full)) This is how many bullets are in an Ammo box, or how much water is in a bottle) 
+quantmax | Dictates the maximum quantity of consumable within the item. Value=(-1.0%(empty) - 100.0%(full) This is how many bullets are in an Ammo box, or how much water is in a bottle) 
+Cost | cost of item determines its 'value' for players (this serve as priority during respawn and cleanup operation)
+Category | The category of an item. Effects on how and where the item spawns. (Weapons, Tools, Containers, Clothes, ect.) 
+Useage | The group in which area an item will spawn. (Farm, Industrial, Medic, Hunting, ect.) 
+Value | The value group of an item. Effects on how and where the item spawns. (Tier1, Tier2, Tier3, ect.) 
+
+## Possible values for types.xml attributes, case sensitive.
+Usage | Category | Value | Tag
+--- | --- | --- | ---
+Coast | clothes | Tier1 | shelves
+Farm | containers | Tier2 | floor
+Firefighter | explosives | Tier3
+Hunting | food | Tier4
+Industrial | tools
+Medic | weapons
+Military | vehiclesparts
+Office
+Police
+Prison
+School
+Town
+Village
+
+
+
+# How-To
+Spawn more of an item? 
+
+In types.xml, find your item and modify the value of 'nominal'. 
+
+
+Change how long buried stashes remain on server? 
+
+In types.xml, find "UndergroundStash" and modify the value of 'lifetime' in seconds. 
+
+
+Exclude buried, stored or items on player from the max/nominal count? 
+
+In types.xml, find your item and modify/add the 'flags' element with an attribute of 'count_in_hoarder' for buried? or 'count_in_cargo' for stored? or 'count_in_player' and change the value to '0' ('1' includes it in the count) 
+
+
+Make an item spawn at a Heli? 
+
+In types.xml, find your item and modify/add the 'flags' element with an attribute of deloot(dynamic event loot) and change the value to '1' ('0' makes it not spawn at Heli's)
+
+# Discord
+Here are some templates to use.
+## rules
+PvE events, mon - fri, strictly no PvP. Keep an eye on in game messeges to identify running event.
+
+PvP Red zone map
+
+ruin cars if abandoning or stripping
+
+No greifing, including glitching, duping or alt accounts
+
+
+-except sunday
+
 # DayZ-Central-Economy
 
 ## Documentation
