@@ -3871,10 +3871,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="CivSedanWheel">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6082,10 +6082,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="HatchbackWheel">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6370,10 +6370,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Wheel">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11770,10 +11770,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Wheel">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
