@@ -43,5 +43,17 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
     -->
+    
+  <!-- Countdown for scheduled server restart, this also restarts the server! so please ensure automated restarts are turned off in nitrado.net-->
+  <message>
+    <deadline>120</deadline>
+    <shutdown>1</shutdown>
+    <text>This server (#name) will restart in #tmin minutes.</text>
+  </message>
 
+  <!-- Discord -->
+  <message>
+    <repeat>15</repeat>
+    <text>Join our Discord for rules, config updates, kill feed and event info. https://discord.gg/AGzGqpq</text>
+  </message>
 </messages>
