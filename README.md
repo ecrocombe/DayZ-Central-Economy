@@ -13,7 +13,7 @@ Wildlife | Base | Wednesday | A PvE only day with boosted bears and wolves
 Thirsty | Base | Thursday | A PvE only day with no water in waterbottles, drastically less life (Zombies,Fruit,Veg,Animals)
 FrightDay | Base | Friday | A PvE only day using the same reduced life as Thirsty, water back in waterbottles, and Hordes of zombies.
 Assuault | Base | Saturday | A PvP day only in red zones.
-Funday | Base | Friday | A PvP day with no rules, encouraging base raiding.
+Funday | Base | Sunday | A PvP day with no rules, encouraging base raiding.
 Modded | Base | Monday | A PvE day with boosted loot
 
 # XML Files
