@@ -77,6 +77,14 @@ School
 Town
 Village
 
+## cfgEconomyCore.xml
+Used to configure classes included in the central economy, persistence backups, infected dynamic zones, CE logging and updaters. 
+Variable | Type | Default | Description
+--- | --- | --- | ---
+world_segments | Integer | 12 | Defines how in many segments world will be split by CE - this affects save, load, cleanup and other processing events - it's performance wide for huge maps (note that default value is for Chernarus map!) 
+
+[see BI wiki for complete values](https://community.bistudio.com/wiki/DayZ:Central_Economy_Configuration)
+
 
 
 # How-To
