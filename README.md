@@ -3,32 +3,18 @@ This repository stores the multiple DayZ PS4 configs used on the community serve
 
 Just before midnight (23:30 AEST/AEDT) every day (Configs are only applied when server restarts next), these configs are rotated each day for specific events.
 
-Monday's = Modded
-
-Tuesday's = Vanilla
-
-Wednesday's = Wildlife
-
-Thursday's = Baseline
-
-Friday's = FrightDay
-
-Saturday's = Assault
-
-Sunday = Funday
-
-Branch | Base | Description 
+Branch | Base | Day | Description 
 --- | --- | ---
-Default |  | Unmodified config, not used directly but to abstract other configs
-All | Default | A baseline config that applies to all configs
-Base | All | A baseline config that applies to all config's, excluding Vanilla.
-Vanilla | All | Used for 'Tight Ass Tuesdays', a PvE only day with config similar to official servers.
-Wildlife | Base | Used for 'Wildlife Wednesdays' is a PvE only day with boosted bears and wolves
-Thirsty | Base | Used for 'Thirsty Thursdays', a PvE only day with no water in waterbottles, drastically less life (Zombies,Fruit,Veg,Animals)
-FrightDay | Base | Used for 'FrightDay Friday', a PvE only day using the same reduced life as Thirsty, water back in waterbottles, and Hordes of zombies.
-Assuault | Base | Used for 'Assault Saturdays', a PvP day only in red zones.
-Funday | Base | Used for 'Funday Sunday', a PvP day with no rules, encouraging base raiding.
-Modded | Base | Used for 'Modded Monday', a PvP day with boosted loot
+Default |  |  | Unmodified config, not used directly but to abstract other configs
+All | Default |  | A baseline config that applies to all configs
+Base | All |  | A baseline config that applies to all config's, excluding Vanilla.
+Vanilla | All | Tuesday | A PvE only day with config similar to official servers.
+Wildlife | Base | Wednesday | A PvE only day with boosted bears and wolves
+Thirsty | Base | Thursday | A PvE only day with no water in waterbottles, drastically less life (Zombies,Fruit,Veg,Animals)
+FrightDay | Base | Friday | A PvE only day using the same reduced life as Thirsty, water back in waterbottles, and Hordes of zombies.
+Assuault | Base | Saturday | A PvP day only in red zones.
+Funday | Base | Friday | A PvP day with no rules, encouraging base raiding.
+Modded | Base | Monday | A PvE day with boosted loot
 
 # XML Files
 File | Folder | Description 
