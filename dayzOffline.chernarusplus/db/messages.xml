@@ -56,4 +56,10 @@ Example messages:
     <repeat>15</repeat>
     <text>Join our Discord for rules, config updates, kill feed and event info. https://discord.gg/AGzGqpq</text>
   </message>
+  
+  <message>
+    <repeat>10</repeat>
+    <onconnect>1</onconnect>
+    <text>It's Modded Monday! Welcome to the PvE event; Loot up!</text>
+  </message>
 </messages>
