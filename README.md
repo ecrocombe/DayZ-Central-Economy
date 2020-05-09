@@ -17,6 +17,7 @@ Funday | Base | Sunday | A PvP day with no rules, encouraging base raiding.
 Modded | Base | Monday | A PvE day with boosted loot
 
 # XML Files
+## File locations and descriptions
 File | Folder | Description 
 --- | --- | ---
 events.xml | files/db/ | Events that spawn vehicles, wrecks, helis, animals, etc
