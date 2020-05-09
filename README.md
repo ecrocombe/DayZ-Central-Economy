@@ -4,7 +4,7 @@ This repository stores the multiple DayZ PS4 configs used on the community serve
 Just before midnight (23:30 AEST/AEDT) every day (Configs are only applied when server restarts next), these configs are rotated each day for specific events.
 
 Branch | Base | Day | Description 
---- | --- | ---
+--- | --- | --- | ---
 Default |  |  | Unmodified config, not used directly but to abstract other configs
 All | Default |  | A baseline config that applies to all configs
 Base | All |  | A baseline config that applies to all config's, excluding Vanilla.
