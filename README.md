@@ -21,10 +21,16 @@ File | Folder | Description
 --- | --- | ---
 events.xml | files/db/ | Events that spawn vehicles, wrecks, helis, animals, etc
 globals.xml | files/db/ | Settings like login timer, max zombies etc.
-types.xml | files/db/ | The loot table
-cfgEconomyCore.xml | files/ | Used to configure classes included in the central economy, persistence backups, infected dynamic zones, CE logging and updaters. 
-cfgspawnabletypes.xml | files/ | Attachments and cargo of items from the loot table.
-cfgeventspawns.xml | files/ | Locations where events spawn
+types.xml | files/db/ | Used to configure item spawn rates and values. 
+cfgeconomycore.xml | files/ | used to configure classes included in the central economy, persistence backups, infected dynamic zones, CE logging and updaters. 
+cfgenvironment.xml | files/ | Configuration of the animal herd and their territories.
+cfgeventspawns.xml | files/ | Used to define positions (and rotation) for certain types of dynamic events (helicrashes, car spawns,..). 
+cfglimitsdefinition.xml | files/ | Contains a definition for tag and category limiters. 
+cfglimitsdefinitionuser.xml | files/ | User definitions for the limiters, defined in cfglimitsdefinition.xml. Usually allows a simpler definitions such as Tier234 and so on (to save space in db\types.xml file). 
+cfgplayerspawnpoints.xml | files/ | Contains base positions for the player spawn point generation (only for the multiplayer mission). Resulting binary file will be generated into the storage folder during first new-player connection. 
+cfgrandompresets.xml | files/ | Definitions of presets for random cargo or attachment spawning. Used in cfgspawnabletypes.xml.
+cfgspawnabletypes.xml | files/ | Used to define random contents of cargo (inventory) or random attachments for selected spawnable types (defined in db\types.xml). 
+mapclusterproto.xml | files/ | Prototypes for cluster-type map groups (fruit trees, objects that spawn mushrooms,..). Each prototype contains containers with spawn-points for loot. 
 mapgroupproto.xml | files/ | Whatever object your event spawns, this file is referenced for the relative loot spawn locations and types of loot
 
 
