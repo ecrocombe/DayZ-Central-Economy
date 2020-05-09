@@ -1,7 +1,7 @@
 # Introduction 
 This repository stores the multiple DayZ PS4 configs used on the community server "(ANZ) | PVE Weekdays | PVP Weekends | Daily Events | see more @ https://discord.gg/3Z8zFcN".
 
-Just before midnight (23:30 AEST/AEDT) every day (Configs are only applied when server restarts next), these configs are rotated each day for specific events.
+Just before midnight (23:30 AEST/AEDT) every day (Configs are only applied when server restarts next), these configs are rotated each day for specific events. For example, the Modded branch is uploaded on Sunday @ 23:30, ready for the Monday event 'Modded Mondays'.
 
 Branch | Base | Day | Description 
 --- | --- | --- | ---
