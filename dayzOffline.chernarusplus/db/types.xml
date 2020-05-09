@@ -2868,10 +2868,10 @@
         <value name="Tier3"/>
     </type>
     <type name="BrassKnuckles_Dull">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2882,10 +2882,10 @@
         <usage name="Village"/>
     </type>
     <type name="BrassKnuckles_Shiny">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
