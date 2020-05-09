@@ -22,6 +22,7 @@ File | Folder | Description
 events.xml | files/db/ | Events that spawn vehicles, wrecks, helis, animals, etc
 globals.xml | files/db/ | Settings like login timer, max zombies etc.
 types.xml | files/db/ | The loot table
+cfgEconomyCore.xml | files/ | Used to configure classes included in the central economy, persistence backups, infected dynamic zones, CE logging and updaters. 
 cfgspawnabletypes.xml | files/ | Attachments and cargo of items from the loot table.
 cfgeventspawns.xml | files/ | Locations where events spawn
 mapgroupproto.xml | files/ | Whatever object your event spawns, this file is referenced for the relative loot spawn locations and types of loot
@@ -78,7 +79,6 @@ Town
 Village
 
 ## cfgEconomyCore.xml
-Used to configure classes included in the central economy, persistence backups, infected dynamic zones, CE logging and updaters. 
 Variable | Type | Default | Description
 --- | --- | --- | ---
 world_segments | Integer | 12 | Defines how in many segments world will be split by CE - this affects save, load, cleanup and other processing events - it's performance wide for huge maps (note that default value is for Chernarus map!) 
