@@ -235,6 +235,7 @@
 				<item name="ZmijovkaCap_Brown" chance="0.10" />
 				<item name="ZmijovkaCap_Green" chance="0.10" />
 				<item name="ZmijovkaCap_Red" chance="0.10" />
+				<item name="PumpkinHelmet" chance="0.10" />
 		</attachments>
 		<attachments chance="0.20" name="bagsHunter">
 			<item name="CourierBag" chance="0.10" />
@@ -258,6 +259,7 @@
 				<item name="RadarCap_Brown" chance="0.10" />
 				<item name="RadarCap_Green" chance="0.10" />
 				<item name="RadarCap_Red" chance="0.10" />
+				<item name="PumpkinHelmet" chance="0.10" />
 		</attachments>
 		<attachments chance="0.40" name="handsVillage">
 				<item name="WoodAxe" chance="0.1" />
@@ -290,6 +292,7 @@
 				<item name="BaseballCap_Olive" chance="0.05" />
 				<item name="BaseballCap_Pink" chance="0.05" />
 				<item name="BaseballCap_Red" chance="0.05" />
+				<item name="PumpkinHelmet" chance="0.05" />
 		</attachments>
 		<attachments chance="0.20" name="handsCity">
 				<item name="HockeyStick" chance="1.0" />
@@ -316,6 +319,7 @@
 				<item name="SkateHelmet_Green" chance="0.20" />
 				<item name="SkateHelmet_Red" chance="0.20" />
 				<item name="SkateHelmet_Black" chance="0.20" />
+				<item name="PumpkinHelmet" chance="0.20" />
 		</attachments>
 		<!--    INDUSTRIAL ATTACHMENTS    -->
 		<attachments chance="0.6" name="hatsIndustrial">
@@ -326,6 +330,7 @@
 				<item name="ConstructionHelmet_White" chance="0.10" />
 				<item name="ConstructionHelmet_Yellow" chance="0.10" />
 				<item name="WeldingMask" chance="0.05" />
+				<item name="PumpkinHelmet" chance="0.10" />
 		</attachments>
 		<attachments chance="0.3" name="handsIndustrial">
 				<item name="Crowbar" chance="0.15" />
@@ -348,6 +353,7 @@
 				<item name="FirefightersHelmet_Red" chance="0.35" />
 				<item name="FirefightersHelmet_White" chance="0.35" />
 				<item name="FirefightersHelmet_Yellow" chance="0.35" />
+				<item name="PumpkinHelmet" chance="0.35" />
 		</attachments>
 
 		<!--    MEDIC ATTACHMENTS    -->
@@ -355,6 +361,7 @@
 				<item name="MedicalScrubsHat_Blue" chance="0.35" />
 				<item name="MedicalScrubsHat_Green" chance="0.35" />
 				<item name="MedicalScrubsHat_White" chance="0.35" />
+				<item name="PumpkinHelmet" chance="0.35" />
 		</attachments>
 
 		<!--    ARMY ATTACHMENTS    -->
@@ -370,6 +377,7 @@
 			<item name="ZSh3PilotHelmet" chance="0.05" />
 			<item name="Ssh68Helmet" chance="0.05" />
 			<item name="NVGHeadstrap" chance="0.01" />
+				<item name="PumpkinHelmet" chance="0.10" />
 		</attachments>
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
 			<item name="TacticalGoggles" chance="0.10" />
@@ -400,6 +408,7 @@
 		<attachments chance="0.40" name="hatsPolice">
 				<item name="PoliceCap" chance="0.80" />
 				<item name="OfficerHat" chance="0.20" />
+				<item name="PumpkinHelmet" chance="0.80" />
 		</attachments>
 		<attachments chance="0.40" name="vestsPolice">
 				<item name="PoliceVest" chance="1.00" />
@@ -407,7 +416,8 @@
 		
 		<!--    PRISONER ATTACHMENTS    -->
 		<attachments chance="0.40" name="hatsPrisoner">
-				<item name="PrisonerCap" chance="1.00" />
+				<item name="PrisonerCap" chance="0.50" />
+				<item name="PumpkinHelmet" chance="0.50" />
 		</attachments>
 
 		<!--    UNIVERSAL ATTACHMENTS    -->
@@ -426,6 +436,7 @@
 				<item name="DarkMotoHelmet_Lime" chance="0.05" />
 				<item name="DarkMotoHelmet_Red" chance="0.05" />
 				<item name="DarkMotoHelmet_White" chance="0.05" />
+				<item name="PumpkinHelmet" chance="0.10" />
 		</attachments>
 		<attachments chance="0.40" name="vestsPress">
 				<item name="PressVest_Blue" chance="0.25" />
