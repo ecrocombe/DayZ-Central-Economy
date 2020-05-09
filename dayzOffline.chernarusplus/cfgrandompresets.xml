@@ -107,7 +107,6 @@
 				<item name="VitaminBottle" chance="0.10" />
 		</cargo>
 		<cargo chance="0.35" name="toolsIndustrial">
-				<item name="Pipe" chance="0.07" />
 				<item name="Hatchet" chance="0.07" />
 				<item name="Crowbar" chance="0.07" />
 				<item name="Rope" chance="0.1" />
@@ -293,8 +292,7 @@
 				<item name="BaseballCap_Red" chance="0.05" />
 		</attachments>
 		<attachments chance="0.10" name="handsCity">
-				<item name="NailedBaseballBat" chance="1.0" />
-				<item name="BaseballBat" chance="1.0" />
+				<item name="HockeyStick" chance="1.0" />
 				<item name="Machete" chance="1.0" />
 		</attachments>
 		<attachments chance="0.00" name="glassesCity"> <!--was chance="0.20"; removed coz of attachment slot is missing -->
@@ -330,7 +328,6 @@
 				<item name="WeldingMask" chance="0.05" />
 		</attachments>
 		<attachments chance="0.15" name="handsIndustrial">
-				<item name="Pipe" chance="0.15" />
 				<item name="Crowbar" chance="0.15" />
 				<item name="Sledgehammer" chance="0.15" />
 		</attachments>
