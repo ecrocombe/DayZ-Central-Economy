@@ -394,7 +394,7 @@
 	<type name="NBCPantsGray">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsMedic" />
-		<cargo chance="0.20">
+		<cargo chance="0.40">
 			<item name="Mag_FNX45_15Rnd" chance="0.14" />
 			<item name="Ammo_762x54" chance="0.14" />
 			<item name="Ammo_762x39" chance="0.14" />
@@ -604,59 +604,59 @@
 		<cargo preset="toolsPolice" />
 	</type>
 	<type name="PrisonUniformJacket">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Rope" chance="0.14" />
 		</cargo>
 	</type>
 	<type name="PrisonUniformPants">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Rope" chance="0.14" />
 		</cargo>
 	</type>
 	<type name="MiniDress_Pink">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_PinkChecker">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_RedChecker">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_WhiteChecker">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_GreenChecker">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_BrownChecker">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_BlueChecker">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 	</type>
 	<type name="MiniDress_BlueWithDots">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
@@ -1476,7 +1476,7 @@
 	</type>
 	<!--  Prisoner  -->
 	<type name="ZmbM_PrisonerSkinny">
-		<cargo chance="0.10">
+		<cargo chance="0.20">
 			<item name="Rope" chance="0.14" />
 		</cargo>
 		<attachments preset="glassesVillage" />
@@ -2173,7 +2173,7 @@
 -->
 	<!--  END OF WEAPONS  -->
 	<type name="PersonalRadio">
-		<attachments chance="0.30">
+		<attachments chance="0.60">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
