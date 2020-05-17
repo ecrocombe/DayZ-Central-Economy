@@ -44,86 +44,6 @@
 
         <!-- centers for grids of spawn points -->
         <generator_posbubbles>
-		
-			<pos x="4984.33" z="15140.34"/> <!--Stary Yar-->
-			<pos x="6643.38" z="14371.80"/> <!--Kamensk-->
-			<pos x="9374.88" z="14548.26"/> <!--Nagornoe-->
-			<pos x="9481.22" z="13802.81"/> <!--Svergino-->
-			<pos x="8464.30" z="13979.99"/> <!--Troitskoe Camp-->
-			<pos x="10764.03" z="14367.42"/> <!--Novodmitrovsk West-->
-			<pos x="11546.16" z="14801.52"/> <!--Novodmitrovsk North-->
-			<pos x="12721.18" z="14575.48"/> <!--Karmonovka-->
-			<pos x="14077.15" z="15030.96"/> <!--Belaya Polana-->
-			<pos x="13504.16" z="14037.96"/> <!--Turovo-->
-			<pos x="13802.62" z="13296.52"/> <!--Svetlojarsk-->
-			<pos x="13359.79" z="12863.89"/> <!--Olha-->
-			<pos x="12305.93" z="10936.46"/> <!--Khelm-->
-			<pos x="12251.49" z="10621.46"/> <!--Khelm South-->
-			<pos x="12444.22" z="9566.36"/> <!--Lumber Mill-->
-			<pos x="12919.63" z="10143.13"/> <!--Lumber Mill North-->
-			<pos x="11903.93" z="9149.04"/> <!--Berezino-->
-			<pos x="12898.97" z="8032.93"/> <!--Nizhnoye-->
-			<pos x="12087.67" z="7222.10"/> <!--Orlovets-->
-			<pos x="11191.31" z="6569.74"/> <!--Dolina-->
-			<pos x="13388.95" z="6283.42"/> <!--Solnichniy-->
-			<pos x="12884.87" z="5655.37"/> <!--Three Valleys-->
-			<pos x="12871.26" z="4445.93"/> <!--Tulga-->
-			<pos x="13458.47" z="2938.02"/> <!--Skalisty Island-->
-			<pos x="12042.47" z="3593.78"/> <!--Kamyshovo-->
-			<pos x="10419.39" z="2213.23"/> <!--Elektrozavodsk-->
-			<pos x="9794.26" z="2218.09"/> <!--Elektrozavodsk West-->
-			<pos x="8134.61" z="3228.35"/> <!--Prigorodki-->
-			<pos x="6514.57" z="2306.56"/> <!--Chernogorsk-->
-			<pos x="6035.88" z="3257.15"/> <!--Novoselky-->
-			<pos x="7082.33" z="4309.82"/> <!--Ozerko-->
-			<pos x="5865.14" z="4814.89"/> <!--Nadezhdino-->
-			<pos x="4400.16" z="2481.68"/> <!--Balota-->
-			<pos x="3652.91" z="2464.06"/> <!--Komarovo-->
-			<pos x="1914.63" z="2231.21"/> <!--Kamenka-->
-			<pos x="1673.52" z="3843.64"/> <!--Pavlovo-->
-			<pos x="3347.64" z="3910.72"/> <!--Bor-->
-			<pos x="4369.90" z="4655.93"/> <!--Kozlovka-->
-			<pos x="7535.37" z="5135.23"/> <!--Mogilevka-->
-			<pos x="6540.33" z="6087.52"/> <!--Vyshnoye-->
-			<pos x="4901.82" z="5681.86"/> <!--Pulkovo-->
-			<pos x="2708.91" z="5291.76"/> <!--Zelenogorsk-->
-			<pos x="590.01" z="5283.86"/> <!--Zvir-->
-			<pos x="2548.98" z="6369.46"/> <!--Sosnovka-->
-			<pos x="4475.87" z="6424.39"/> <!--Pogorevka-->
-			<pos x="4797.31" z="6823.25"/> <!--Rogovo-->
-			<pos x="7210.66" z="6993.63"/> <!--Novy Sobor South-->
-			<pos x="8428.82" z="6679.60"/> <!--Guglovo-->
-			<pos x="10122.99" z="5483.17"/> <!--Staroye-->
-			<pos x="11265.20" z="5480.86"/> <!--Msta-->
-			<pos x="9655.73" z="6560.51"/> <!--Shakhovka-->
-			<pos x="7154.27" z="7704.81"/> <!--Novy Sobor-->
-			<pos x="6095.55" z="7736.40"/> <!--Stary Sobor-->
-			<pos x="5404.81" z="8566.19"/> <!--Kabanino-->
-			<pos x="1992.89" z="7307.17"/> <!--Myshkino-->
-			<pos x="2994.25" z="7829.25"/> <!--Pustoshka-->
-			<pos x="1202.01" z="8765.50"/> <!--Bogatyrka-->
-			<pos x="3737.49" z="8956.54"/> <!--Vybor-->
-			<pos x="10682.85" z="8061.98"/> <!--Polana-->
-			<pos x="9444.76" z="8828.21"/> <!--Gorka-->
-			<pos x="10418.90" z="9828.62"/> <!--Dubrovka-->
-			<pos x="9959.05" z="10386.67"/> <!--Vyshnaya Dubrovka-->
-			<pos x="11001.61" z="12415.94"/> <!--Krastnostav-->
-			<pos x="8592.63" z="11926.18"/> <!--Gvozdno-->
-			<pos x="8185.77" z="11579.59"/> <!--Severograd South-->
-			<pos x="8077.00" z="10916.65"/> <!--Devils Castle-->
-			<pos x="5971.84" z="10315.82"/> <!--Grishino-->
-			<pos x="2752.60" z="9967.21"/> <!--Lopatino-->
-			<pos x="1158.75" z="10000.70"/> <!--Zabolotye-->
-			<pos x="2215.04" z="11096.39"/> <!--Vavilovo-->
-			<pos x="1461.10" z="11949.03"/> <!--Sinystok-->
-			<pos x="3436.11" z="13050.55"/> <!--Novaya Petrovka-->
-			<pos x="4898.29" z="13053.96"/> <!--Zaprudnoe-->
-			<pos x="6295.94" z="12663.00"/> <!--Ratnoe-->
-			<pos x="8064.73" z="12640.76"/> <!--Severograd-->
-			<pos x="7579.61" z="13465.69"/> <!--Troitskoe-->
-			<pos x="5815.07" z="13570.69"/> <!--Polesovo-->
-			<pos x="9165.65" z="3894.44"/> <!--Pusta-->
-		<!--
 		        <pos x="8294.81" z="2915.43" />
 		        <pos x="6052.60" z="1868.23" />
 		        <pos x="8212.17" z="2781.53" />
@@ -224,7 +144,6 @@
 		        <pos x="14326.32" z="13333.03" />
 		        <pos x="13536.13" z="6229.02" />
 		        <pos x="13587.80" z="6026.50" />
-				-->
         </generator_posbubbles>
     </fresh>
 </playerspawnpoints>
