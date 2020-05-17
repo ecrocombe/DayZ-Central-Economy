@@ -4274,10 +4274,10 @@
         <usage name="Military"/>
     </type>
     <type name="Crowbar">
-        <nominal>70</nominal>
+        <nominal>140</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4918,10 +4918,10 @@
         <category name="tools"/>
     </type>
     <type name="FirefighterAxe">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6396,10 +6396,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchet">
-        <nominal>80</nominal>
+        <nominal>160</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>120</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10249,10 +10249,10 @@
         <usage name="Firefighter"/>
     </type>
     <type name="Pickaxe">
-        <nominal>70</nominal>
+        <nominal>140</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10455,10 +10455,10 @@
         <category name="food"/>
     </type>
     <type name="Pliers">
-        <nominal>70</nominal>
+        <nominal>140</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12228,10 +12228,10 @@
         <usage name="Town"/>
     </type>
     <type name="SledgeHammer">
-        <nominal>70</nominal>
+        <nominal>140</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14186,10 +14186,10 @@
         <usage name="Town"/>
     </type>
     <type name="WoodAxe">
-        <nominal>70</nominal>
+        <nominal>140</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
