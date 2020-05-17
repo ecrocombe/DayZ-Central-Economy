@@ -610,9 +610,9 @@
         </children>
     </event>
     <event name="TrajectoryApple">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -627,9 +627,9 @@
         </children>
     </event>
     <event name="TrajectoryCanina">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -644,9 +644,9 @@
         </children>
     </event>
     <event name="TrajectoryConiferous">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -662,9 +662,9 @@
         </children>
     </event>
     <event name="TrajectoryDeciduous">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -679,9 +679,9 @@
         </children>
     </event>
     <event name="TrajectoryHumus">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -697,9 +697,9 @@
         </children>
     </event>
     <event name="TrajectoryPear">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -714,9 +714,9 @@
         </children>
     </event>
     <event name="TrajectoryPlum">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -731,9 +731,9 @@
         </children>
     </event>
     <event name="TrajectorySambucus">
-        <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
