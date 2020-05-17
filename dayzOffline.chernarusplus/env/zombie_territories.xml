@@ -490,4 +490,86 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="2" x="11035" z="6665" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="2" x="3005" z="6732.5" r="80"/>
     </territory>
+
+    <!--HORDE-->
+    <territory color="1910952871">
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4984.33" z="15140.34" r="10"/> <!--Stary Yar-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="6643.38" z="14371.80" r="10"/> <!--Kamensk-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9374.88" z="14548.26" r="10"/> <!--Nagornoe-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9481.22" z="13802.81" r="10"/> <!--Svergino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8464.30" z="13979.99" r="10"/> <!--Troitskoe Camp-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="10764.03" z="14367.42" r="10"/> <!--Novodmitrovsk West-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="11546.16" z="14801.52" r="10"/> <!--Novodmitrovsk North-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12721.18" z="14575.48" r="10"/> <!--Karmonovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="14077.15" z="15030.96" r="10"/> <!--Belaya Polana-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="13504.16" z="14037.96" r="10"/> <!--Turovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="13802.62" z="13296.52" r="10"/> <!--Svetlojarsk-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="13359.79" z="12863.89" r="10"/> <!--Olha-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12305.93" z="10936.46" r="10"/> <!--Khelm-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12251.49" z="10621.46" r="10"/> <!--Khelm South-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12444.22" z="9566.36" r="10"/> <!--Lumber Mill-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12919.63" z="10143.13" r="10"/> <!--Lumber Mill North-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="11903.93" z="9149.04" r="10"/> <!--Berezino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12898.97" z="8032.93" r="10"/> <!--Nizhnoye-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12087.67" z="7222.10" r="10"/> <!--Orlovets-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="11191.31" z="6569.74" r="10"/> <!--Dolina-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="13388.95" z="6283.42" r="10"/> <!--Solnichniy-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12884.87" z="5655.37" r="10"/> <!--Three Valleys-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12871.26" z="4445.93" r="10"/> <!--Tulga-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="13458.47" z="2938.02" r="10"/> <!--Skalisty Island-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="12042.47" z="3593.78" r="10"/> <!--Kamyshovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="10419.39" z="2213.23" r="10"/> <!--Elektrozavodsk-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9794.26" z="2218.09" r="10"/> <!--Elektrozavodsk West-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8134.61" z="3228.35" r="10"/> <!--Prigorodki-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="6514.57" z="2306.56" r="10"/> <!--Chernogorsk-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="6035.88" z="3257.15" r="10"/> <!--Novoselky-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="7082.33" z="4309.82" r="10"/> <!--Ozerko-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="5865.14" z="4814.89" r="10"/> <!--Nadezhdino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4400.16" z="2481.68" r="10"/> <!--Balota-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="3652.91" z="2464.06" r="10"/> <!--Komarovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="1914.63" z="2231.21" r="10"/> <!--Kamenka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="1673.52" z="3843.64" r="10"/> <!--Pavlovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="3347.64" z="3910.72" r="10"/> <!--Bor-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4369.90" z="4655.93" r="10"/> <!--Kozlovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="7535.37" z="5135.23" r="10"/> <!--Mogilevka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="6540.33" z="6087.52" r="10"/> <!--Vyshnoye-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4901.82" z="5681.86" r="10"/> <!--Pulkovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="2708.91" z="5291.76" r="10"/> <!--Zelenogorsk-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="590.01" z="5283.86" r="10"/> <!--Zvir-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="2548.98" z="6369.46" r="10"/> <!--Sosnovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4475.87" z="6424.39" r="10"/> <!--Pogorevka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4797.31" z="6823.25" r="10"/> <!--Rogovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="7210.66" z="6993.63" r="10"/> <!--Novy Sobor South-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8428.82" z="6679.60" r="10"/> <!--Guglovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="10122.99" z="5483.17" r="10"/> <!--Staroye-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="11265.20" z="5480.86" r="10"/> <!--Msta-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9655.73" z="6560.51" r="10"/> <!--Shakhovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="7154.27" z="7704.81" r="10"/> <!--Novy Sobor-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="6095.55" z="7736.40" r="10"/> <!--Stary Sobor-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="5404.81" z="8566.19" r="10"/> <!--Kabanino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="1992.89" z="7307.17" r="10"/> <!--Myshkino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="2994.25" z="7829.25" r="10"/> <!--Pustoshka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="1202.01" z="8765.50" r="10"/> <!--Bogatyrka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="3737.49" z="8956.54" r="10"/> <!--Vybor-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="10682.85" z="8061.98" r="10"/> <!--Polana-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9444.76" z="8828.21" r="10"/> <!--Gorka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="10418.90" z="9828.62" r="10"/> <!--Dubrovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9959.05" z="10386.67" r="10"/> <!--Vyshnaya Dubrovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="11001.61" z="12415.94" r="10"/> <!--Krastnostav-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8592.63" z="11926.18" r="10"/> <!--Gvozdno-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8185.77" z="11579.59" r="10"/> <!--Severograd South-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8077.00" z="10916.65" r="10"/> <!--Devils Castle-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="5971.84" z="10315.82" r="10"/> <!--Grishino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="2752.60" z="9967.21" r="10"/> <!--Lopatino-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="1158.75" z="10000.70" r="10"/> <!--Zabolotye-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="2215.04" z="11096.39" r="10"/> <!--Vavilovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="1461.10" z="11949.03" r="10"/> <!--Sinystok-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="3436.11" z="13050.55" r="10"/> <!--Novaya Petrovka-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="4898.29" z="13053.96" r="10"/> <!--Zaprudnoe-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="6295.94" z="12663.00" r="10"/> <!--Ratnoe-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="8064.73" z="12640.76" r="10"/> <!--Severograd-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="7579.61" z="13465.69" r="10"/> <!--Troitskoe-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="5815.07" z="13570.69" r="10"/> <!--Polesovo-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="25" dmax="25" x="9165.65" z="3894.44" r="10"/> <!--Pusta-->
+    </territory>
 </territory-type>
