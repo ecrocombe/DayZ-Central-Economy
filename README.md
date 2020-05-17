@@ -6,7 +6,7 @@ Just before midnight (23:30 AEST/AEDT) every day (Configs are only applied when 
 Branch | Base | Day | Description 
 --- | --- | --- | ---
 master | [BohemiaInteractive/DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy) |  | Unmodified config forked directly from Bohemia Interactive (BI), not used directly but to abstract other configs, also used to accept updates from BI
-All | Default |  | A baseline config that applies to all configs
+All | master |  | A baseline config that applies to all configs
 Base | All |  | A baseline config that applies to all config's, excluding Vanilla.
 Vanilla | All | Tuesday | A PvE only day with config similar to official servers.
 Wildlife | Base | Wednesday | A PvE only day with boosted bears and wolves
