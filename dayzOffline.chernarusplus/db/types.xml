@@ -3178,8 +3178,8 @@
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>10</quantmin>
-        <quantmax>90</quantmax>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -13894,8 +13894,8 @@
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>100</min>
-        <quantmin>20</quantmin>
-        <quantmax>70</quantmax>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
