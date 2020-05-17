@@ -44,6 +44,17 @@
 
         <!-- centers for grids of spawn points -->
         <generator_posbubbles>
+		
+			<!--NWAF SPAWNS-->
+			<pos x="5140.37" z="10213.13" />
+			<pos x="4980.44" z="9358.55" />
+			<pos x="4059.29" z="10239.87" />
+			<pos x="3859.02" z="10560.21" />
+			<pos x="4241.58" z="11734.17" />
+			<pos x="3816.24" z="11413.34" />
+			<pos x="4665.13" z="10330.77" />
+
+		<!-- DEFAULT SPAWNS
 		        <pos x="8294.81" z="2915.43" />
 		        <pos x="6052.60" z="1868.23" />
 		        <pos x="8212.17" z="2781.53" />
@@ -144,6 +155,7 @@
 		        <pos x="14326.32" z="13333.03" />
 		        <pos x="13536.13" z="6229.02" />
 		        <pos x="13587.80" z="6026.50" />
+				-->
         </generator_posbubbles>
     </fresh>
 </playerspawnpoints>
